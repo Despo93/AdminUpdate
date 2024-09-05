@@ -1,5 +1,5 @@
 {
     "version": "0.2",
-    "url": "https://github.com/Despo93/AdminUpdate/raw/main/v0.2/AdminTool.exe",
+    "updateZipUrl": "https://github.com/Despo93/AdminUpdate/raw/main/v0.2/UpdatePackage.zip",
     "changelog": "In dieser Version wurden Fehler behoben und neue Features hinzugefügt."
 }
