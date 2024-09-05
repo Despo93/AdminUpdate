@@ -1,5 +1,4 @@
 {
     "version": "0.2",
-    "updateZipUrl": "https://github.com/Despo93/AdminUpdate/raw/main/v0.2/UpdatePackage.zip",
-    "changelog": "In dieser Version wurden Fehler behoben und neue Features hinzugefügt."
+    "url": "https://github.com/Despo93/AdminUpdate/raw/main/v0.2/UpdatePackage.zip"
 }
